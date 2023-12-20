@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
 
-I'm a Software Engineering, Luxembourg <br/> <br/>
+I'm a Software Engineering in Luxembourg <br/> <br/>
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-Shivang-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivang99/)
 [![Instagram badge](https://img.shields.io/badge/Instagram-@Shivang99_-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/shivang99_/)
 
