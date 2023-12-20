@@ -2,7 +2,7 @@
 
 I'm a Software Engineering, Luxembourg <br/> <br/>
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-Shivang-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivang99/)
-[![Instagram badge](https://img.shields.io/badge/Instagram-@Shivang-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/shivang99_/)
+[![Instagram badge](https://img.shields.io/badge/Instagram-@Shivang99_-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/shivang99_/)
 
 - ⚡️ Technologies I work with: C++, Java, Python, JavaScript, TypeScript, React, NodeJS, GraphQL, CSS, HTML and more...
 
